@@ -26,5 +26,5 @@
 
 ## 📫 Connect
 - Email: sahil.sajayan63@gmail.com 
-- LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sahil-sajayan-961444230/))  
+- LinkedIn: https://www.linkedin.com/in/sahil-sajayan-961444230/
 
