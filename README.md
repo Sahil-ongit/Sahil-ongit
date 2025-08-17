@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sahil 👋
 
-<!--
-**Sahil-ongit/Sahil-ongit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 💻 Web & Mobile Developer
+- 🚀 Skilled in Flutter, Bootstrap, and Azure Speech SDK
+- 🎯 Focused on building clean UI & practical applications
+- 🌱 Always learning and exploring new technologies
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, React  
+- **Mobile:** Flutter, Dart  
+- **Backend:** Node.js, Firebase, Azure SDK  
+- **Tools:** Git, GitHub, VS Code, Figma  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
+
+## 📫 Connect
+- Email: your@email.com  
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- Portfolio: [yourwebsite.com](https://yourwebsite.com)
