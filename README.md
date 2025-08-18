@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 - 💻 Web & Mobile Developer
-- 🚀 Skilled in Flutter, Bootstrap, and Azure Speech SDK
+- 🚀 Skilled in Flutter, Bootstrap, and Web Development
 - 🎯 Focused on building clean UI & practical applications
 - 🌱 Always learning and exploring new technologies
 
